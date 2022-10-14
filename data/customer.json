@@ -1,0 +1,139 @@
+{
+    "entityName": "customer",
+    "entityLabel": "Cliente",
+    "keys": [
+        "code"
+    ],
+    "customRoutes": [
+        {
+            "name": "nextId",
+            "method": "GET",
+            "path": "/nextId",
+            "responseType": "object",
+            "database": "db_nextId"
+        },
+        {
+            "name": "block",
+            "method": "POST",
+            "path": "/:idParam/block",
+            "responseType": "object",
+            "database": "db_block"
+        },
+        {
+            "name": "duplic",
+            "method": "POST",
+            "path": "/:idParam/duplic",
+            "database": "db_duplic"
+        }
+    ],
+    "database": [
+        {
+            "code": 1,
+            "shortName": "João",
+            "name": "Joãozinho Maria da Silva",
+            "country": "BRA",
+            "status": 2,
+            "contacts": [
+                {
+                    "seq": 1,
+                    "name": "Zezinho",
+                    "phone": "9835-35456"
+                }
+            ]
+        },
+        {
+            "code": 2,
+            "shortName": "Maria",
+            "name": "Maria Barbosa",
+            "country": "BRA",
+            "status": 1,
+            "contacts": []
+        },
+        {
+            "code": 3,
+            "shortName": "Adonias",
+            "name": "Adonias Oliveira",
+            "country": "USA",
+            "status": 2
+        },
+        {
+            "code": 4,
+            "shortName": "Chinfronésio",
+            "name": "Chinfronésio Pereira Filho",
+            "country": "CHI",
+            "status": 1
+        },
+        {
+            "code": 5,
+            "shortName": "Intrometido",
+            "name": "Intrometido que Veio de Fora",
+            "country": "ARG",
+            "status": 2
+        },
+        {
+            "code": 6,
+            "shortName": "Mais um",
+            "name": "Um outro qualquer 3",
+            "country": "BRA",
+            "status": 3
+        }
+    ],
+    "db_nextId": [
+        {
+            "code": 12
+        }
+    ],
+    "db_block": [
+        {
+            "idParam": 1,
+            "statusCodeResponse": 200
+        },
+        {
+            "idParam": 3,
+            "statusCodeResponse": 400,
+            "errorResponse": "Não foi possível bloquear o cliente 3 !!!!"
+        },
+        {
+            "idParam": 6,
+            "statusCodeResponse": 500,
+            "errorResponse": "Usuário já está bloqueado !!!!"
+        }
+    ],
+    "db_duplic": [
+        {
+            "code": 6,
+            "shortName": "Mais um",
+            "name": "Um outro qualquer 3",
+            "country": "BRA",
+            "status": 3
+        },
+        {
+            "code": 4,
+            "shortName": "Chinfronésio",
+            "name": "Chinfronésio Pereira Filho",
+            "country": "BRA",
+            "status": 1
+        },
+        {
+            "code": 2,
+            "shortName": "Maria",
+            "name": "Maria Barbosa",
+            "country": "BRA",
+            "status": 1
+        },
+        {
+            "code": 1,
+            "shortName": "João",
+            "name": "Joãozinho Maria da Silva",
+            "country": "BRA",
+            "status": 2
+        },
+        {
+            "code": 6,
+            "shortName": "Mais um",
+            "name": "Um outro qualquer 3",
+            "country": "BRA",
+            "status": 3
+        }
+    ]
+}

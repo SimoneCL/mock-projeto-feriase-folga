@@ -1,0 +1,16 @@
+{
+  "name": "mock-totvs-builder-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mock-totvs-builder": "^1.0.11",
+    "nodemon": "^1.19.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "entityName": "login",
+    "entityLabel": "Login",
+    "keys": [
+        "email"
+    ],
+    "database": [
+        {
+            "user": "simone",
+            "email": "simone.cristine@totvs.com.br"
+        }
+    ]
+}

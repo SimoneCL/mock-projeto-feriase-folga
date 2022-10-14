@@ -1,0 +1,23 @@
+{
+    "entityName": "eventoAux",
+    "entityLabel": "eventoAux",
+    "keys": [
+        "id"
+    ],
+    "database": [
+        {
+            "id": 3,
+            "user": "simone",
+            "eventIniDate": "2022-10-01",
+            "eventEndDate": "2022-10-20",
+            "type": 1
+        },
+        {
+            "id": 4,
+            "user": "simone",
+            "eventIniDate": "2022-10-07",
+            "eventEndDate": "2022-10-07",
+            "type": 2
+        }
+    ]
+}

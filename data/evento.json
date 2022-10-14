@@ -1,0 +1,73 @@
+{
+    "entityName": "evento",
+    "entityLabel": "evento",
+    "keys": [
+        "user","eventDate"
+    ],
+    "database": [
+        {
+            "user": "Cleiton",
+            "type": 2,
+            "eventDate": "2022-09-10"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-12"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-13"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-14"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-15"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-16"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-17"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-18"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-19"
+        },{
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-20"
+        },
+        {
+            "user": "Marco",
+            "type": 1,
+            "eventDate": "2022-09-21"
+        },
+        {
+            "user": "simoneLanger",
+            "type": 2,
+            "eventDate": "2022-09-11"
+        },
+        {
+            "user": "simoneLanger",
+            "type": 3,
+            "eventDate": "2022-09-12"
+        }
+    ]
+}

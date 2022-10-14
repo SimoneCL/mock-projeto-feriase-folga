@@ -1,0 +1,52 @@
+{
+    "entityName": "eventoold",
+    "entityLabel": "eventoOld",
+    "keys": [
+        "user"
+    ],
+    "database": [
+        {
+            "user": "Cleiton",
+            "events": [
+                {
+                    "type": 1,
+                    "eventIniDate": "2022-09-01",
+                    "eventEndDate": "2022-09-01",
+                    "id": "1"
+                }
+            ]
+        },
+        {
+            "user": "Marco",
+            "events": [
+                {
+                    "type": 1,
+                    "eventIniDate": "2022-09-02",
+                    "eventEndDate": "2022-09-02",
+                    "id": "1"
+                },
+                {
+                    "type": 2,
+                    "eventIniDate": "2022-09-03",
+                    "eventEndDate": "2022-09-09",
+                    "id": "2"
+                }
+            ]
+        },
+        {
+            "user": "simone",
+            "events": [
+                {
+                    "type": 3,
+                    "eventIniDate": "2022-09-05",
+                    "eventEndDate": "2022-09-05",
+                    "id": 1659484800000
+                }
+            ]
+        },
+        {
+            "user": "simoneLanger",
+            "events": [ ]
+        }
+    ]
+}
