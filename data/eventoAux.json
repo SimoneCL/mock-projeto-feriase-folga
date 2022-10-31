@@ -2,22 +2,44 @@
     "entityName": "eventoAux",
     "entityLabel": "eventoAux",
     "keys": [
-        "id"
+        "id",
+        "user"
     ],
     "database": [
         {
-            "id": 3,
-            "user": "simone",
-            "eventIniDate": "2022-10-01",
-            "eventEndDate": "2022-10-20",
-            "type": 1
+            "type": 2,
+            "eventIniDate": "2022-10-14",
+            "eventEndDate": "2022-10-14",
+            "id": 32236,
+            "user": "simone"
         },
         {
-            "id": 4,
+            "eventIniDate": "2022-11-18",
+            "eventEndDate": "2022-11-18",
+            "user": "Cleiton",
+            "type": 3,
+            "id": 65345
+        },
+        {
+            "eventIniDate": "2022-11-21",
+            "eventEndDate": "2022-11-26",
             "user": "simone",
-            "eventIniDate": "2022-10-07",
-            "eventEndDate": "2022-10-07",
-            "type": 2
+            "type": 1,
+            "id": 46635
+        },
+        {
+            "eventIniDate": "2022-11-18",
+            "eventEndDate": "2022-11-18",
+            "user": "Marco",
+            "type": 3,
+            "id": 65333
+        },
+        {
+            "eventIniDate": "2022-11-14",
+            "eventEndDate": "2022-11-14",
+            "user": "simone",
+            "type": 3,
+            "id": 23585
         }
     ]
 }
