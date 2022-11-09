@@ -1,6 +1,6 @@
 {
-    "entityName": "eventoAux",
-    "entityLabel": "eventoAux",
+    "entityName": "evento",
+    "entityLabel": "evento",
     "keys": [
         "id",
         "user"
@@ -40,6 +40,13 @@
             "user": "simone",
             "type": 3,
             "id": 23585
+        },
+        {
+            "eventIniDate": "2022-11-28",
+            "eventEndDate": "2022-11-28",
+            "user": "simone",
+            "type": 3,
+            "id": 62222
         }
     ]
 }

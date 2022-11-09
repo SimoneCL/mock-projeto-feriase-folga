@@ -1,0 +1,21 @@
+{
+    "entityName": "tipoEvento",
+    "entityLabel": "tipoEvento",
+    "keys": [
+        "code"
+    ],
+    "database": [
+        {
+            "code": 1,
+            "descTipoEvento": "Férias"
+        },
+        {
+            "code": 2,
+            "descTipoEvento": "Ponte"
+        },
+        {
+            "code": 3,
+            "descTipoEvento": "reset day"
+        }
+    ]
+}
