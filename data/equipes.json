@@ -1,0 +1,19 @@
+{
+    "entityName": "equipes",
+    "entityLabel": "equipes",
+    "keys": [
+        "codEquipe"
+    ],
+    "database": [
+        {
+            "codEquipe": "1",
+            "descEquipe": "Recebimento",
+            "liderEquipe": "Rafael Pedro"
+        },
+        {
+            "codEquipe": "2",
+            "descEquipe": "Estoque",
+            "liderEquipe": "Rafael Pedro"
+        }
+    ]
+}

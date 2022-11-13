@@ -1,0 +1,22 @@
+{
+    "entityName": "usuario",
+    "entityLabel": "usuario",
+    "keys": [
+        "IdUsuario"
+    ],
+    "database": [
+        {
+            "IdUsuario": 27529,
+            "usuario": "aaa",
+            "email": "aaa@totvs.com.br",
+            "tipoPerfil": "3"
+        },
+        {
+            "usuario": "bbb",
+            "email": "bbb@totvs.com.br",
+            "tipoPerfil": "3",
+            "IdUsuario": 16462,
+            "senha": "123456"
+        }
+    ]
+}

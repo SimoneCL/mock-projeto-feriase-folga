@@ -1,0 +1,19 @@
+{
+    "entityName": "feriados",
+    "entityLabel": "feriados",
+    "keys": [
+        "data"
+    ],
+    "database": [
+        {
+            "data": "2022-11-15",
+            "tipoFeriado": "Nacional",
+            "descricao": "teste"
+        },
+        {
+            "data": "2022-11-02",
+            "tipoFeriado": "Nacional",
+            "descricao": "finados"
+        }
+    ]
+}
