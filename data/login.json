@@ -6,8 +6,9 @@
     ],
     "database": [
         {
-            "user": "simone",
-            "email": "simone.cristine@totvs.com.br"
+            "user": "cleiton",
+            "email": "cleiton.luis@totvs.com.br",
+            "password": "cleiton"
         }
     ]
 }
