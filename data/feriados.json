@@ -1,0 +1,45 @@
+{
+    "entityName": "feriados",
+    "entityLabel": "Feriados",
+    "keys": [
+        "data"
+    ],
+    "database": [
+        {
+            "data": "01/05/2022",
+            "tipoFeriado": "Nacional",
+            "descricao": "Dia do trabalhador",
+            "pontoFacultativo": true
+        },
+        {
+            "data": "07/09/2022",
+            "tipoFeriado": "Municipal",
+            "descricao": "Sete de setembro",
+            "pontoFacultativo": true
+        },
+        {
+            "data": "2022-11-22",
+            "tipoFeriado": "Estadual",
+            "descricao": "Teste Municipal",
+            "pontoFacultativo": true
+        },
+        {
+            "data": "2022-11-25",
+            "tipoFeriado": "Estadual",
+            "descricao": "Teste Municipal EDit",
+            "pontoFacultativo": true
+        },
+        {
+            "data": "2022-11-09",
+            "tipoFeriado": "Estadual",
+            "descricao": "Teste Municipal",
+            "pontoFacultativo": true
+        },
+        {
+            "data": "2022-11-30",
+            "tipoFeriado": "Estadual",
+            "descricao": "Feriado Teste refresh",
+            "pontoFacultativo": true
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "entityName": "equipes",
+    "entityLabel": "equipes",
+    "keys": [
+        "codEquipe"
+    ],
+    "database": [
+        {
+            "codEquipe": 1,
+            "descEquipe": "Teste 1",
+            "liderEquipe": "Cleiton"
+        },
+        {
+            "codEquipe": "2",
+            "descEquipe": "TESTE 2",
+            "liderEquipe": "Simone"
+        },
+        {
+            "codEquipe": "3",
+            "descEquipe": "TESTE 3",
+            "liderEquipe": "Simone"
+        },
+        {
+            "codEquipe": "4",
+            "descEquipe": "Novo 4",
+            "liderEquipe": "Cleiton"
+        }
+    ]
+}
