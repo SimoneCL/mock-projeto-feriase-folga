@@ -19,11 +19,6 @@
             "codEquipe": "3",
             "descEquipe": "TESTE 3",
             "liderEquipe": "Simone"
-        },
-        {
-            "codEquipe": "4",
-            "descEquipe": "Novo 4",
-            "liderEquipe": "Cleiton"
         }
     ]
 }
