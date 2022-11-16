@@ -7,7 +7,8 @@
     "database": [
         {
             "user": "simone",
-            "email": "simone.cristine@totvs.com.br"
+            "email": "simone.cristine@totvs.com.br",
+            "password": "123456"
         }
     ]
 }

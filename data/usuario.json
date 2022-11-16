@@ -17,6 +17,16 @@
             "tipoPerfil": "3",
             "IdUsuario": 16462,
             "senha": "123456"
+        },
+        {
+            "usuario": "simone",
+            "email": "simone.cristine@totvs.com.br",
+            "tipoPerfil": "3",
+            "IdUsuario": 11816,
+            "senha": "123456",
+            "equipes": [
+                "1"
+            ]
         }
     ]
 }

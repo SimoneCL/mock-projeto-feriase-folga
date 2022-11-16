@@ -14,6 +14,11 @@
             "codEquipe": "2",
             "descEquipe": "Estoque",
             "liderEquipe": "Rafael Pedro"
+        },
+        {
+            "codEquipe": "3",
+            "descEquipe": "fiscal",
+            "liderEquipe": "Marcelo"
         }
     ]
 }
