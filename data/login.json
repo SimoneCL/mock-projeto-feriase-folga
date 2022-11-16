@@ -9,6 +9,11 @@
             "user": "simone",
             "email": "simone.cristine@totvs.com.br",
             "password": "123456"
+        },
+        {
+            "user": "cleiton",
+            "email": "cleiton.luis@totvs.com.br",
+            "password": "cleiton"
         }
     ]
 }
