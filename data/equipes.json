@@ -6,19 +6,20 @@
     ],
     "database": [
         {
-            "codEquipe": 1,
-            "descEquipe": "Teste 1",
-            "liderEquipe": "Cleiton"
+            
+            "codEquipe": "1",
+            "descEquipe": "Recebimento",
+            "liderEquipe": "Rafael Pedro"
         },
         {
             "codEquipe": "2",
-            "descEquipe": "TESTE 2",
-            "liderEquipe": "Simone"
+            "descEquipe": "Estoque",
+            "liderEquipe": "Rafael Pedro"
         },
         {
             "codEquipe": "3",
-            "descEquipe": "TESTE 3",
-            "liderEquipe": "Simone"
+            "descEquipe": "fiscal",
+            "liderEquipe": "Marcelo"
         }
     ]
 }

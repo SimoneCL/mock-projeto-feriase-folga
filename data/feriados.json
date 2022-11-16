@@ -1,6 +1,6 @@
 {
     "entityName": "feriados",
-    "entityLabel": "Feriados",
+    "entityLabel": "feriados",
     "keys": [
         "data"
     ],
