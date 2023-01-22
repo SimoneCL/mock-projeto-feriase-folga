@@ -21,12 +21,30 @@
         {
             "usuario": "simone",
             "email": "simone.cristine@totvs.com.br",
-            "tipoPerfil": "3",
+            "tipoPerfil": "1",
             "IdUsuario": 11816,
-            "senha": "123456",
-            "equipes": [
-                "1"
-            ]
+            "senha": "123456"
+        },
+        {
+            "usuario": "marco",
+            "email": "marco.dalacorte@totvs.com.br",
+            "tipoPerfil": "3",
+            "IdUsuario": 55275,
+            "senha": "123456"
+        },
+        {
+            "usuario": "Cleiton",
+            "email": "cleiton.luis@totvs.com.br",
+            "tipoPerfil": "3",
+            "IdUsuario": 18174,
+            "senha": "123456"
+        },
+        {
+            "usuario": "usuário01",
+            "email": "usuario01@totvs.com.br",
+            "tipoPerfil": "2",
+            "IdUsuario": 40857,
+            "senha": "123456"
         }
     ]
 }

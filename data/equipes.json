@@ -6,7 +6,6 @@
     ],
     "database": [
         {
-            
             "codEquipe": "1",
             "descEquipe": "Recebimento",
             "liderEquipe": "Rafael Pedro"

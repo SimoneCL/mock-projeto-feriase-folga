@@ -16,6 +16,19 @@
         {
             "code": 3,
             "descTipoEvento": "reset day"
+        },
+        {
+            "code": 4,
+            "descTipoEvento": "licença"
+        },
+        {
+            "code": 5,
+            "descTipoEvento": "licença maternidade"
+        },
+        
+        {
+            "code": 6,
+            "descTipoEvento": "feriado"
         }
     ]
 }
