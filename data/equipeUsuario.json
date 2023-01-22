@@ -1,0 +1,50 @@
+{
+    "entityName": "equipeUsuario",
+    "entityLabel": "equipeUsuario",
+    "keys": [
+        "usuario",
+        "codEquipe"
+    ],
+    "database": [
+        {
+            "IdUsuario": 27529,
+            "usuario": "aaa",
+            "codEquipe": "2"
+        },
+        {
+            "usuario": "bbb",
+            "IdUsuario": 16462,
+            "codEquipe": "3"
+        },
+        {
+            "usuario": "marco",
+            "IdUsuario": 55275,
+            "codEquipe": "2"
+        },
+        {
+            "usuario": "Cleiton",
+            "IdUsuario": 18174,
+            "codEquipe": "1"
+        },
+        {
+            "usuario": "usuário01",
+            "IdUsuario": 40857,
+            "codEquipe": "3"
+        },
+        {
+            "codEquipe": "3",
+            "IdUsuario": 11816,
+            "usuario": "simone"
+        },
+        {
+            "codEquipe": "1",
+            "IdUsuario": 11816,
+            "usuario": "simone"
+        },
+        {
+            "codEquipe": "2",
+            "IdUsuario": 11816,
+            "usuario": "simone"
+        }
+    ]
+}
